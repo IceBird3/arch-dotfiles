@@ -2,10 +2,10 @@
   "IS_MAXIMIZED": false,
   "IS_MINIMIZED": false,
   "WINDOW_BOUNDS": {
-    "x": 5,
-    "y": 34,
-    "width": 1909,
-    "height": 1040
+    "x": 3,
+    "y": 20,
+    "width": 954,
+    "height": 517
   },
   "SKIP_HOST_UPDATE": true,
   "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
@@ -13,6 +13,6 @@
   "enableHardwareAcceleration": false,
   "MIN_WIDTH": 940,
   "MIN_HEIGHT": 500,
-  "BACKGROUND_COLOR": "#000000",
+  "BACKGROUND_COLOR": "#121214",
   "offloadAdmControls": false
 }
