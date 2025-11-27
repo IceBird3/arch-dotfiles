@@ -22,6 +22,7 @@ PACKAGES="
     bettercap-git
     betterdiscord-installer
     bind
+    biber
     bleachbit
     blender
     blockbench-bin
@@ -52,9 +53,9 @@ PACKAGES="
     cargo-update
     cargo-watch
     cava
+    openrgb
     cgdb
     chatgpt-desktop-bin
-    chromium
     clang
     cloc
     cmake
@@ -319,6 +320,7 @@ PACKAGES="
     osmium-tool
     ossec-hids-local
     osslsigncode
+    openrgb
     pandoc-cli
     parabolic
     parallel
@@ -416,6 +418,7 @@ PACKAGES="
     texlive
     texlive-lang
     texmaker
+    texstudio
     themix-gui-git
     themix-plugin-base16-git
     thunderbird
@@ -459,7 +462,6 @@ PACKAGES="
     wayland-boomer-git
     wayvr-dashboard
     wget
-    whatsdesk-bin
     whois
     wiki-tui
     winboat-bin
